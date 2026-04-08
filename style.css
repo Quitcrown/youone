@@ -14,8 +14,11 @@ body{
     background:#F54927;
     color:#fff;
     text-align:center;
-
 }
+
+ .jarak{
+      padding:0 2pc;
+ }
 
 .menu{
       background-color: #417aa8;
